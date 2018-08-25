@@ -1,7 +1,8 @@
 # demo-clase
 este es un reposiorio para la clase 
 
-
+---
+# Este es un nuevo cambio
 # Esta es una seccion
 
 ## Subseccion
@@ -17,9 +18,9 @@ asf a
    a
     fa fa
 
-*item 1
-*item 2
-*item 3
+* item 1
+* item 2
+* item 3
 
 ---
 
