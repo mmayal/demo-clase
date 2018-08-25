@@ -4,9 +4,9 @@ este es un reposiorio para la clase
 
 # Esta es una seccion
 
-##Subseccion
+## Subseccion
 
-###Sub sub sub subseccion
+### Sub sub sub subseccion
 
 asdsfa sdf
 asf a  
